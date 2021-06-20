@@ -22,5 +22,11 @@ export default {
 </script>
 
 <style>
+*{margin:0;padding:0}
+a:link,a:visited{text-decoration: none;color:#333}
+li{list-style:none}
 #app{padding: 20px;}
+
+.tac{text-align:center !important}
+.mb10{margin-bottom:10px !important}
 </style>

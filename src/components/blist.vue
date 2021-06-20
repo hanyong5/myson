@@ -16,5 +16,6 @@ export default {
 </script>
 
 <style>
-.vlist li{font-size:2rem;margin-bottom:10px;}
+.vlist li{font-size:1.5rem;margin-bottom:10px;}
+
 </style>
