@@ -1,9 +1,9 @@
 <template>
 
-  <h2 class="mb10 tac">{{bdata[$route.params.id].title}}</h2>
+  <h2 class="mb20 tac">{{bdata[$route.params.id].list}} : {{bdata[$route.params.id].title}}</h2>
 
   <div class="item1" @click="change">
-      <h3 class="mb01">{{bdata[$route.params.id].line1}}</h3>
+      <h3 class="mb10">{{bdata[$route.params.id].line1}}</h3>
       <div v-html="bdata[$route.params.id].con1"></div>
      
   </div>
@@ -20,6 +20,8 @@
 <script>
 let view1 = 1;
 let view2 = 1;
+
+
 export default {
     props:['bdata'],
     methods:{
@@ -55,7 +57,8 @@ export default {
                 view2 = 1;
 
             }
-        }
+        },
+
         
     }
 

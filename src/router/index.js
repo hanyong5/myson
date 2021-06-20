@@ -12,7 +12,7 @@ const routes = [
   {
     path: '/list',
     name: 'list',
-    component: blist
+    component: blist,
     
   },
   {

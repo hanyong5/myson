@@ -1,6 +1,6 @@
 <template>
   <h1 class="mb10">제자반성경암송</h1>
-  <ul class="menu clearfix mb10">
+  <ul class="menu clearfix mb20">
       <li><router-link to="/">HOME</router-link></li>
       <li><router-link to="/list">2권</router-link></li>
       
@@ -8,6 +8,7 @@
 </template>
 
 <script>
+
 export default {
 
 }

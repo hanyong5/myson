@@ -22,6 +22,8 @@ export default {
 </script>
 
 <style>
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap');
+body{font-family: 'Roboto', sans-serif;}
 *{margin:0;padding:0}
 a:link,a:visited{text-decoration: none;color:#333}
 li{list-style:none}
@@ -29,4 +31,7 @@ li{list-style:none}
 
 .tac{text-align:center !important}
 .mb10{margin-bottom:10px !important}
+.mb20{margin-bottom:20px !important}
+
+.router-link-active{background:#ddd}
 </style>

@@ -1,10 +1,10 @@
 <template>
-  <p>home</p>
+  <p>준비중입니다.</p>
 </template>
 
 <script>
 export default {
-
+    name:'home'
 }
 </script>
 
