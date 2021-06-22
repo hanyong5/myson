@@ -1,4 +1,5 @@
 <template>
+
   <div>
       <ul class="vlist">
           <li v-for="(a,i) in bdata" :key="i">
