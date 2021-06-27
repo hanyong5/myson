@@ -12,7 +12,7 @@ export default [
         con2:'<span>내가</span> 영원한 <span>사랑</span>으로 <span>너</span>를 <span>사랑하기</span>에 <span>인자함</span>으로 <span>너</span>를 <span>이끌</span>었다 <span>하였</span>노라'
     },
     {
-        iidx:2,list:'3과',title:'예수 그리스도는 누구신가?',
+        idx:2,list:'3과',title:'예수 그리스도는 누구신가?',
         line1:'히브리서 4:15',line2:'요한복음 14:6',
         con1:'<span>우리</span>에게 있는 <span>대제사장</span>은 우리의 <span>연약함</span>을 <span>동정</span>하지 <span>못하실</span> 이가 아니요 <span>모든 일</span>에 <span>우리</span>와 똑같이 <span>시험</span>을 받으신 이로되 <span>죄</span>는 <span>없으</span>시니라',
         con2:'<span>예수</span>께서 이르시되 내가 곧 <span>길</span>이요 <span>진리</span>요 <span>생명</span>이니 나로 말미암지 않고는 <span>아버지</span>께로 올자가 <span>없느</span>니라'
