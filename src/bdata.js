@@ -20,7 +20,7 @@ export default [
     {
         idx:3,list:'4과',title:'삼위일체 하나님',
         line1:'요한복음 1:1',line2:'고린도후서 13:3',
-        con1:'<span>태초</span>에 <span>말씀</span>이 게시니라 이 말씀이 <span>하나님</span>과 함께 <span>게셨</span>으니 이 <span>말씀</span>은 곧 <span>하나님</span>이시니라',
+        con1:'<span>태초</span>에 <span>말씀</span>이 계시니라 이 <span>말씀</span>이 <span>하나님</span>과 함께 <span>게셨</span>으니 이 <span>말씀</span>은 곧 <span>하나님</span>이시니라',
         con2:'주 예수 <span>그리스도</span>의 <span>은혜</span>와 <span>하나님</span>의 <span>사랑</span>과 성령의 <span>교통하심</span>이 너희 <span>무리</span>와 함께 <span>있을지</span>어다'
     }
     
