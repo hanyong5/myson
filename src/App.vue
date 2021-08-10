@@ -1,10 +1,11 @@
 <template>
   <top-header />
-  <router-view :bdata="bdata" />
+  <router-view  :bdata1="bdata1" :bdata2="bdata2" />
 </template>
 
 <script>
-import bdata from './bdata.js'
+import bdata1 from './bdata1.js'
+import bdata2 from './bdata2.js'
 import header from './components/header.vue'
 
 
@@ -12,7 +13,8 @@ export default {
   name:'app',
   data(){
     return{
-      bdata:bdata
+      bdata2:bdata2,
+      bdata1:bdata1
     }
   },
   components:{

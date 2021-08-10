@@ -20,8 +20,15 @@ export default [
     {
         idx:3,list:'4과',title:'삼위일체 하나님',
         line1:'요한복음 1:1',line2:'고린도후서 13:3',
-        con1:'<span>태초</span>에 <span>말씀</span>이 계시니라 이 <span>말씀</span>이 <span>하나님</span>과 함께 <span>게셨</span>으니 이 <span>말씀</span>은 곧 <span>하나님</span>이시니라',
+        con1:'<span>태초</span>에 <span>말씀</span>이 계시니라 이 <span>말씀</span>이 <span>하나님</span>과 함께 <span>계셨</span>으니 이 <span>말씀</span>은 곧 <span>하나님</span>이시니라',
         con2:'주 예수 <span>그리스도</span>의 <span>은혜</span>와 <span>하나님</span>의 <span>사랑</span>과 성령의 <span>교통하심</span>이 너희 <span>무리</span>와 함께 <span>있을지</span>어다'
+    },
+    {
+        idx:4,list:'5과',title:'인간의 타락과 그결과',
+        line1:'로마서 5:12',line2:'히브리서 9:27',
+        con1:'그러므로 <span>한 사람</span>으로 말미암아 <span>죄</span>가 <span>세상</span>에 들어오고 <span>죄</span>로 말미암아 <span>사망</span>이 들어왔나니 이와 같이 <span>모든 사람</span>이 <span>죄</span>를 지었으므로 <span>사망</span>이 <span>모든 사람</span>에게 이르렀느니라',
+        con2:'한번 <span>죽는 것</span>은 <span>사람</span>에게 <span>정해진 것</span>이요. <span>그후</span>에는 <span>심판</span>이 있으리니'
     }
+
     
 ]

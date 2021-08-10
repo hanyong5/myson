@@ -1,7 +1,9 @@
 import { createRouter, createWebHistory } from 'vue-router'
 import Home from '../components/home.vue'
-import blist from '../components/blist.vue'
-import detail from '../components/detail.vue'
+import blist1 from '../components/blist1.vue'
+import blist2 from '../components/blist2.vue'
+import detail1 from '../components/detail1.vue'
+import detail2 from '../components/detail2.vue'
 
 const routes = [
   {
@@ -10,15 +12,27 @@ const routes = [
     component: Home
   },
   {
-    path: '/list',
-    name: 'list',
-    component: blist,
+    path: '/list1',
+    name: 'list1',
+    component: blist1,
     
   },
   {
-    path: '/detail/:id',
-    name: 'detail',
-    component: detail
+    path: '/list2',
+    name: 'list2',
+    component: blist2,
+    
+  },
+  {
+    path: '/detail2/:id',
+    name: 'detail2',
+    component: detail2
+    
+  },
+  {
+    path: '/detail1/:id',
+    name: 'detail1',
+    component: detail1
     
   }
 ]

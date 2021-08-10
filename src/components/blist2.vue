@@ -2,8 +2,8 @@
 
   <div>
       <ul class="vlist">
-          <li v-for="(a,i) in bdata" :key="i">
-             <router-link :to="`/detail/${bdata[i].idx}`"> <span class="round">{{bdata[i].list}}</span> {{bdata[i].title}}</router-link>
+          <li v-for="(a,i) in bdata2" :key="i">
+             <router-link :to="`/detail2/${bdata2[i].idx}`"> <span class="round">{{bdata2[i].list}}</span> {{bdata2[i].title}}</router-link>
         </li>
       </ul>
   </div>
@@ -11,7 +11,7 @@
 
 <script>
 export default {
-    props:['bdata']
+    props:['bdata2']
 
 }
 </script>
