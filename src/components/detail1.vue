@@ -1,6 +1,10 @@
 <template>
 
-  <h2 class="mb20 tac">{{bdata1[$route.params.id].list}} : {{bdata1[$route.params.id].title}}</h2>
+  <div class="title">
+    <h2 class="mb20 tac">{{bdata1[$route.params.id].list}} : {{bdata1[$route.params.id].title}}</h2>
+    <div v-if="$route.params.id != 0" class="left"><router-link :to="`/detail1/${Number($route.params.id)-1}`">이전</router-link></div>
+    <div v-if="$route.params.id < 5" class="right"><router-link :to="`/detail1/${Number($route.params.id)+1}`">다음</router-link></div>
+  </div>
 
   <div class="item1" @click="change">
       <h3 class="mb10">{{bdata1[$route.params.id].line1}}</h3>
@@ -11,6 +15,10 @@
       <h3 class="mb10">{{bdata1[$route.params.id].line2}}</h3>
       <div v-html="bdata1[$route.params.id].con2"></div>
   </div>
+
+
+  
+  
 
    <!-- <button @click="change">글자없애기</button>
    <button @click="change1">글자보기</button> -->
@@ -70,4 +78,10 @@ span{color:red}
 .item1{margin-bottom: 40px;}
 .item1 div,.item2 div{font-size:1.5rem;}
 button{padding: 10px;margin-right:10px;}
+
+.title{position: relative;margin-bottom:30px;}
+.left,.right{width:50px;height: 50px;background: #ccc;border-radius:25px;position: absolute;}
+.left{left: 0;top: 0;}
+.right{right: 0;top: 0;}
+.left a,.right a{display: block;line-height: 50px;text-align: center;}
 </style>

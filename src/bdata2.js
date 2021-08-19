@@ -28,6 +28,12 @@ export default [
         line1:'로마서 5:12',line2:'히브리서 9:27',
         con1:'그러므로 <span>한 사람</span>으로 말미암아 <span>죄</span>가 <span>세상</span>에 들어오고 <span>죄</span>로 말미암아 <span>사망</span>이 들어왔나니 이와 같이 <span>모든 사람</span>이 <span>죄</span>를 지었으므로 <span>사망</span>이 <span>모든 사람</span>에게 이르렀느니라',
         con2:'한번 <span>죽는 것</span>은 <span>사람</span>에게 <span>정해진 것</span>이요. <span>그후</span>에는 <span>심판</span>이 있으리니'
+    },
+    {
+        idx:5,list:'6과',title:'예수 그리스도의 죽음',
+        line1:'로마서 5:8',line2:'갈라디아서 3:13',
+        con1:'<span>우리</span>가 <span>아직 죄인</span> 되었을 때에 <span>그리스도</span>께서 <span>우리</span>를 위하여 <span>죽으심</span>으로 <span>하나님</span>께서 <span>우리</span>에게 대한 <span>자기</span>의 사랑을 <span>확증</span>하셨느니라',
+        con2:'<span>그리스도</span>께서 <span>우리</span>를 위하여 <span>저주</span>를 받은바 되사 <span>율법</span>의 저주에서 <span>우리</span>를 <span>속량</span>하셨으니 기록된바 <span>나무</span>에 달린 <span>자마다 </span>저주 아래 있는 <span>자라</span> 하였음이라 '
     }
 
     

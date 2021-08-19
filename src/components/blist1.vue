@@ -4,6 +4,8 @@
       <ul class="vlist">
           <li v-for="(a,i) in bdata1" :key="i">
              <router-link :to="`/detail1/${bdata1[i].idx}`"> <span class="round">{{bdata1[i].list}}</span> {{bdata1[i].title}}</router-link>
+             <br>
+             <span class="list"></span>{{bdata1[i].line1}} / {{bdata1[i].line2}} 
         </li>
       </ul>
   </div>
@@ -22,5 +24,6 @@ export default {
 .round{display:inline-block;font-size:1rem;background:red;color:white;width:60px;text-align:center;
   line-height:30px;border-radius:10px;margin-right:5px
   }
+  .list{display: inline-block;width: 70px;}
 
 </style>
