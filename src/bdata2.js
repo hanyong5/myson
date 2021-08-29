@@ -34,7 +34,20 @@ export default [
         line1:'로마서 5:8',line2:'갈라디아서 3:13',
         con1:'<span>우리</span>가 <span>아직 죄인</span> 되었을 때에 <span>그리스도</span>께서 <span>우리</span>를 위하여 <span>죽으심</span>으로 <span>하나님</span>께서 <span>우리</span>에게 대한 <span>자기</span>의 사랑을 <span>확증</span>하셨느니라',
         con2:'<span>그리스도</span>께서 <span>우리</span>를 위하여 <span>저주</span>를 받은바 되사 <span>율법</span>의 저주에서 <span>우리</span>를 <span>속량</span>하셨으니 기록된바 <span>나무</span>에 달린 <span>자마다 </span>저주 아래 있는 <span>자라</span> 하였음이라 '
+    },
+    {
+        idx:6,list:'7과',title:'예수그리스도의 부활',
+        line1:'로마서 4:25',line2:'갈라디아서 2:20',
+        con1:'<span>예수</span>는 우리 <span>범죄함</span>을 위하여 <span>내어줌</span>이 되고 또한 <span>우리</span>를 <span>의롭다 하심</span>을 위하여 <span>살아나셨느</span>니라',
+        con2:'내가 <span>그리스도</span>와 함께 <span>십자가</span>에 못 박혔나니 그런즉 <span>이제</span>는 내가 산 것이 아니요 <span>오직 내 안</span>에 <span>그리스도</span>께서 사신 것이라 <span>이제 내</span>가 <span>육체 가운데 사는 것</span>은 <span>나</span>를 <span>사랑</span>하사 <span>나</span>를 위하여 <span>자기 몸</span>을 버리신 <span>하나님</span>의 아들을 <span>믿는 믿음 안</span>에서 <span>사는 </span>것이라'
+    },
+    {
+        idx:7,list:'8과',title:'약속대로 오신 성령',
+        line1:'사도행전 2:38',line2:'고린도전서 12:13',
+        con1:'<span>베드로</span>가 가로되 <span>너희</span>가 <span>회개</span>하여 각각 <span>예수 그리스도</span>의 이름으로 <span>세례</span>를 받고 <span>죄 사함</span>을 얻으라 그리하면 <span>성령</span>을 <span>선물</span>로 받으리니',
+        con2:'<span>우리</span>가 <span>유대인</span>이나 <span>헬라인</span>이나 <span>종</span>이나 <span>자유자</span>나 다 한 <span>성령</span>으로 <span>세례</span>를 받아 한 몸이 되었고 또 다 <span>한 성령</span>을 마시게 하셨느니라 '
     }
+    
 
     
 ]
