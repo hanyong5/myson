@@ -80,7 +80,7 @@ span{color:red}
 button{padding: 10px;margin-right:10px;}
 
 .title{position: relative;margin-bottom:30px;}
-.left,.right{width:50px;height: 50px;background: #ccc;border-radius:25px;position: absolute;}
+.left,.right{width:50px;height: 50px;background: rgba(0,0,0,0.5);border-radius:25px;position: absolute;}
 .left{left: 0;top: 0;}
 .right{right: 0;top: 0;}
 .left a,.right a{display: block;line-height: 50px;text-align: center;}

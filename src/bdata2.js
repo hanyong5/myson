@@ -45,7 +45,13 @@ export default [
         idx:7,list:'8과',title:'약속대로 오신 성령',
         line1:'사도행전 2:38',line2:'고린도전서 12:13',
         con1:'<span>베드로</span>가 가로되 <span>너희</span>가 <span>회개</span>하여 각각 <span>예수 그리스도</span>의 이름으로 <span>세례</span>를 받고 <span>죄 사함</span>을 얻으라 그리하면 <span>성령</span>을 <span>선물</span>로 받으리니',
-        con2:'<span>우리</span>가 <span>유대인</span>이나 <span>헬라인</span>이나 <span>종</span>이나 <span>자유자</span>나 다 한 <span>성령</span>으로 <span>세례</span>를 받아 한 몸이 되었고 또 다 <span>한 성령</span>을 마시게 하셨느니라 '
+        con2:'<span>우리</span>가 <span>유대인</span>이나 <span>헬라인</span>이나 <span>종</span>이나 <span>자유자</span>나 다 <span>한 성령</span>으로 <span>세례</span>를 받아 <span>한 몸</span>이 되었고 또 다 <span>한 성령</span>을 마시게 하셨느니라 '
+    },
+    {
+        idx:8,list:'9과',title:'거듭난 사람',
+        line1:'디도서 3:5',line2:'데살로니가전서 1:3$4',
+        con1:'<span>우리</span>를 구원하시되 <span>우리</span>의 행한바 <span>의로운 행위</span>로 말미암지 아니하고 <span>오직</span> 그의 <span>긍휼하심</span>을 좇아 <span>중생</span>의 <span>씻음</span>과 <span>성령</span>의 <span>새롭게 하심</span>으로 하셨나니',
+        con2:'<span>너희</span>의 <span>믿음</span>의 <span>역사</span>와 <span>사랑</span>의 수고와 우리 <span>주 예수 그리스도</span>에 대한 <span>소망</span>의 <span>인내</span>를 우리 <span>하나님 아버지 앞</span>에서 쉬지 않고 <span>기억함</span>이니 <span>하나님</span>의 사랑하심을 받은 <span>형제들</span>아 너희를 <span>택하심</span>을 아노라'
     }
     
 

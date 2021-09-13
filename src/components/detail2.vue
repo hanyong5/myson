@@ -3,7 +3,7 @@
   <div class="title">
   <h2 class="mb20 tac">{{bdata2[$route.params.id].list}} : {{bdata2[$route.params.id].title}}</h2>
   <div v-if="$route.params.id != 0" class="left"><router-link :to="`/detail2/${Number($route.params.id)-1}`">이전</router-link></div>
-    <div v-if="$route.params.id < 7" class="right"><router-link :to="`/detail2/${Number($route.params.id)+1}`">다음</router-link></div>
+    <div v-if="$route.params.id < 8" class="right"><router-link :to="`/detail2/${Number($route.params.id)+1}`">다음</router-link></div>
   </div>
 
   <div class="item1" @click="change">
@@ -77,7 +77,7 @@ button{padding: 10px;margin-right:10px;}
 
 
 .title{position: relative;margin-bottom:30px;}
-.left,.right{width:50px;height: 50px;background: #ccc;border-radius:25px;position: absolute;}
+.left,.right{width:50px;height: 50px;background: rgba(0,0,0,0.5);border-radius:25px;position: absolute;}
 .left{left: 0;top: 0;}
 .right{right: 0;top: 0;}
 .left a,.right a{display: block;line-height: 50px;text-align: center;}
