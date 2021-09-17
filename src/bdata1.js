@@ -25,7 +25,7 @@ export default [
     },
     {
         idx:4,list:'5과',title:'무엇이 바른 기도인가',
-        line1:'빌립보서 4:6~7',line2:'마태복음 7:11',
+        line1:'빌립보서 4:6~7',line2:'마태복음 6:6',
         con1:'<span>아무 것도 염려</span>하지 말고 <span>오직 모든 일</span>에 <span>기도</span>와 <span>간구</span>로, 너희 구할 것을 <span>감사함</span>으로 <span>하나님</span>께 아뢰라. 그리하면 <span>모든 지각</span>에 뛰어난 <span>하나님</span>의 <span>평강</span>이 그<span>리스도 예수 안</span>에서 <span>너희 마음</span>과 <span>생각</span>을 지키시리라',
         con2:'<span>너</span>는 <span>기도</span>할 때에 <span>네 골방</span>에 들어가 <span>문</span>을 닫고 <span>은밀한 중</span>에 계신 네 <span>아버지</span>께 <span>기도</span>하라 <span>은밀한 중</span>에 보시는 네 <span>아버지</span>께서 <span>갚으시</span>리라'
     },
