@@ -54,7 +54,7 @@ export default [
         con2:'<span>너희</span>의 <span>믿음</span>의 <span>역사</span>와 <span>사랑</span>의 수고와 우리 <span>주 예수 그리스도</span>에 대한 <span>소망</span>의 <span>인내</span>를 우리 <span>하나님 아버지 앞</span>에서  끊임없이 <span>기억함</span>이니 <span>하나님</span>의 사랑하심을 받은 <span>형제들</span>아 너희를 <span>택하심</span>을 아노라'
     },
     {
-        idx:8,list:'10과',title:'믿음이란 무엇인가?',
+        idx:9,list:'10과',title:'믿음이란 무엇인가?',
         line1:'에베소서 2:8~9',line2:'로마서 4:18',
         con1:'<span>너희</span>는 그 <span>은혜</span>에 의하여 <span>믿음</span>으로 말미암아 <span>구원</span>을 받았으니 이것은 <span>너희</span>에게 난 것이 아니요 <span>하나님</span>의 선물이라. <span>행위</span>에서 난것이 아니니 이는 <span>누구든지 자랑</span>하지 못하게 함이라',
         con2:'<span>아브라함</span>이 <span>바랄 수 없</span>는 중에 <span>바라고 믿었</span>으니 이는 네 <span>후손</span>이 <span>이같으</span>리라 하신 <span>말씀대</span>로 많은 <span>민족</span>의 <span>조상</span>이 되게 하려 <span>하심</span>이라'
