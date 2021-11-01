@@ -6,6 +6,7 @@
 <script>
 import bdata1 from './bdata1.js'
 import bdata2 from './bdata2.js'
+import bdata2 from './bdata3.js'
 import header from './components/header.vue'
 
 
@@ -14,7 +15,8 @@ export default {
   data(){
     return{
       bdata2:bdata2,
-      bdata1:bdata1
+      bdata1:bdata1,
+      bdata3:bdata3
     }
   },
   components:{
