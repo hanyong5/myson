@@ -6,7 +6,7 @@
 <script>
 import bdata1 from './bdata1.js'
 import bdata2 from './bdata2.js'
-import bdata2 from './bdata3.js'
+import bdata3 from './bdata3.js'
 import header from './components/header.vue'
 
 
