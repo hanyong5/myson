@@ -4,6 +4,7 @@
       <li><router-link to="/">HOME</router-link></li>
       <li><router-link to="/list1">1권</router-link></li>
       <li><router-link to="/list2">2권</router-link></li>
+      <li><router-link to="/list3">3권</router-link></li>
       
   </ul>
 </template>
