@@ -1,6 +1,6 @@
 <template>
   <top-header />
-  <router-view  :bdata1="bdata1" :bdata2="bdata2" />
+  <router-view  :bdata1="bdata1" :bdata2="bdata2" :bdata3="bdata3" />
 </template>
 
 <script>
