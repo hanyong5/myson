@@ -37,7 +37,6 @@ const routes = [
     component: detail1
     
   },
-  ,
   {
     path: '/list3',
     name: 'list3',
