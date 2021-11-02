@@ -3,7 +3,7 @@
   <div class="title">
   <h2 class="mb20 tac">{{bdata3[$route.params.id].list}} : {{bdata3[$route.params.id].title}}</h2>
   <div v-if="$route.params.id != 0" class="left"><router-link :to="`/detail3/${Number($route.params.id)-1}`">이전</router-link></div>
-    <div v-if="$route.params.id < 13" class="right"><router-link :to="`/detail3/${Number($route.params.id)+1}`">다음</router-link></div>
+    <div v-if="$route.params.id < 12" class="right"><router-link :to="`/detail3/${Number($route.params.id)+1}`">다음</router-link></div>
   </div>
 
   <div class="item1" @click="change">
