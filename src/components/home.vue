@@ -19,4 +19,5 @@ export default {
 
 <style>
 .linkView a{display: block;line-height:50px;background:skyblue;text-align: center;font-weight: bold;font-size: 1.3em;border-radius:5px;color:white}
+.linkView{margin-bottom:10px}
 </style>
