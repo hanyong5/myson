@@ -8,19 +8,19 @@ export default [
     {
         idx:1,list:'2과',title:'하나님과 매일 만나는 생활',
         line1:'히브리서 4:16',line2:'예레미야애가 3:22~23',
-        con1:'그러므로 <span>우리</span>가 <span>긍휼하심</span>을 받고 때를 따라 돕는 <span>은혜</span>를 얻기 위하여 <span>은혜</span>의 보좌 앞에 <span>담대히 나아갈 것</span>이니라',
-        con2:'<span>여호와</span>의 <span>인자</span>와 <span>긍휼</span>이 무궁하시므로 <span>우리</span>가 진멸되지 아니함이니이다. 이것들이 <span>아침</span>마다 <span>새로우</span>니 <span>주의 성실</span>이 <span>크시도소</span>이다'
+        con1:'그러므로 <span>우리</span>는 <span>긍휼하심</span>을 받고 때를 따라 돕는 <span>은혜</span>를 얻기 위하여 <span>은혜</span>의 보좌 앞에 <span>담대히 나아갈 것</span>이니라',
+        con2:'<span>여호와</span>의 <span>인자</span>와 <span>긍휼</span>이 무궁하시므로 <span>우리</span>가 진멸되지 아니함이니이다. 이것들이 <span>아침</span>마다 <span>새로우</span>니 <span>주의 성실하심이</span>이 <span>크시도소</span>이다'
     },
     {
         idx:2,list:'3과',title:'경건의 시간',
         line1:'시편 1:1~2',line2:'시편 119:105',
-        con1:'<span>복 있는 사람</span>은 <span>악인</span>의 꾀를 따르지 아니하며 <span>죄인</span>들의 길에 서지 아니하며 <span>오만한 자</span>들의 <span>자리</span>에 앉지 아니하고, <span>오직 여호와</span>의 <span>율법</span>을 <span>즐거워</span>하여 그 율법을 <span>주야</span>로 <span>묵상</span>하는 자로다',
+        con1:'<span>복 있는 사람</span>은 <span>악인들</span>에 꾀를 따르지 아니하며 <span>죄인</span>들의 길에 서지 아니하며 <span>오만한 자</span>들의 <span>자리</span>에 앉지 아니하고, <span>오직 여호와</span>의 <span>율법</span>을 <span>즐거워</span>하여 그의 율법을 <span>주야</span>로 <span>묵상</span>하는 자로다',
         con2:'<span>주의 말씀</span>은 내 <span>발</span>에 <span>등</span>이요 내 <span>길</span>에 <span>빛</span>이니이다'
     },
     {
         idx:3,list:'4과',title:'살았고 운동력 있는 말씀',
         line1:'로마서 1:16',line2:'디모데후서 3:16',
-        con1:'<span>내</span>가 <span>복음</span>을 부끄러워하지 아니하노니 이 <span>복음</span>은 모든 <span>믿는 자</span>에게 <span>구원</span>을 주시는 <span>하나님</span>의 <span>능력</span>이 됨이라 먼저는 <span>유대인</span>에게요 또한 <span>헬라인</span>에게로다',
+        con1:'<span>내</span>가 <span>복음</span>을 부끄러워하지 아니하노니 이 <span>복음</span>은 모든 <span>믿는 자</span>에게 <span>구원</span>을 주시는 <span>하나님</span>의 <span>능력</span>이 됨이라 먼저는 <span>유대인</span>에게요 그리고 <span>헬라인</span>에게로다',
         con2:'<span>모든 성경</span>은 <span>하나님</span>의 감동으로 된 것으로 <span>교훈</span>과 <span>책망</span>과 <span>바르게 함</span>과 <span>의</span>로 <span>교육하기</span>에 유익하니'
     },
     {

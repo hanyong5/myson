@@ -2,7 +2,7 @@ export default [
     {
         idx:0,list:'1과' ,title:'성경의 권위',
         line1:'베드로후서 1:21',line2:'여호수아 1:8',
-        con1:'<span>예언</span>은 <span>언제</span>든지 <span>사람</span>의 <span>뜻</span>으로 <span>낸것</span>이 아니오 오직 <span>성령</span>으로 <span>감동하심</span>을 받은 <span>사람</span>들이 <span>하나님</span>께 <span>받아 말한 것임</span>이라 ',
+        con1:'<span>예언</span>은 <span>언제</span>든지 <span>사람</span>의 <span>뜻</span>으로 <span>낸것</span>이 아니오 오직 <span>성령</span>에 <span>감동하심</span>을 받은 <span>사람</span>들이 <span>하나님</span>께 <span>받아 말한 것임</span>이라 ',
         con2:'이 <span>율법책</span>을 네 <span>입</span>에서 <span>떠나지 말</span>게 하며 <span>주야</span>로 <span>그것</span>을 <span>묵상</span>하여 <span>그 안</span>에 <span>기록</span>된 대로 <span>다 지켜 행</span>하라 그리하면 네 <span>길</span>이 <span>평탄</span>하게 <span>될것</span>이며 네가 <span>형통</span>하리라. '
     },
     {
@@ -38,19 +38,19 @@ export default [
     {
         idx:6,list:'7과',title:'예수그리스도의 부활',
         line1:'로마서 4:25',line2:'갈라디아서 2:20',
-        con1:'<span>예수</span>는 우리 <span>범죄함</span>을 위하여 <span>내어줌</span>이 되고 또한 <span>우리</span>를 <span>의롭다 하심</span>을 위하여 <span>살아나셨느</span>니라',
-        con2:'내가 <span>그리스도</span>와 함께 <span>십자가</span>에 못 박혔나니 그런즉 <span>이제</span>는 내가 산 것이 아니요 <span>오직 내 안</span>에 <span>그리스도</span>께서 사신 것이라 <span>이제 내</span>가 <span>육체 가운데 사는 것</span>은 <span>나</span>를 <span>사랑</span>하사 <span>나</span>를 위하여 <span>자기 몸</span>을 버리신 <span>하나님</span>의 아들을 <span>믿는 믿음 안</span>에서 <span>사는 </span>것이라'
+        con1:'<span>예수</span>는 우리가 <span>범죄함 것</span>때문에 <span>내어줌</span>이 되고 또한 <span>우리</span>를 <span>의롭다 </span>하시기 위하여 <span>살아나셨느</span>니라',
+        con2:'내가 <span>그리스도</span>와 함께 <span>십자가</span>에 못 박혔나니 그런즉 <span>이제</span>는 내가 산 것이 아니요 <span>오직 내 안</span>에 <span>그리스도</span>께서 사신 것이라 <span>이제 내</span>가 <span>육체 가운데 사는 것</span>은 <span>나</span>를 <span>사랑</span>하사 <span>나</span>를 위하여 <span>자기 자신</span>을 버리신 <span>하나님</span>의 아들을 <span>믿는 믿음 안</span>에서 <span>사는 </span>것이라'
     },
     {
         idx:7,list:'8과',title:'약속대로 오신 성령',
         line1:'사도행전 2:38',line2:'고린도전서 12:13',
-        con1:'<span>베드로</span>가 가로되 <span>너희</span>가 <span>회개</span>하여 각각 <span>예수 그리스도</span>의 이름으로 <span>세례</span>를 받고 <span>죄 사함</span>을 얻으라 그리하면 <span>성령</span>을 <span>선물</span>로 받으리니',
-        con2:'<span>우리</span>가 <span>유대인</span>이나 <span>헬라인</span>이나 <span>종</span>이나 <span>자유자</span>나 다 <span>한 성령</span>으로 <span>세례</span>를 받아 <span>한 몸</span>이 되었고 또 다 <span>한 성령</span>을 마시게 하셨느니라 '
+        con1:'<span>베드로</span>가 이르되 <span>너희</span>가 <span>회개</span>하여 각각 <span>예수 그리스도</span>의 이름으로 <span>세례</span>를 받고 <span>죄 사함</span>을 받으라 그리하면 <span>성령</span>의 <span>선물</span>로 받으리니',
+        con2:'<span>우리</span>가 <span>유대인</span>이나 <span>헬라인</span>이나 <span>종</span>이나 <span>자유인</span>이나 다 <span>한 성령</span>으로 <span>세례</span>를 받아 <span>한 몸</span>이 되었고 또 다 <span>한 성령</span>을 마시게 하셨느니라 '
     },
     {
         idx:8,list:'9과',title:'거듭난 사람',
         line1:'디도서 3:5',line2:'데살로니가전서 1:3~4',
-        con1:'<span>우리</span>를 구원하시되 <span>우리</span>의 행한바 <span>의로운 행위</span>로 말미암지 아니하고 <span>오직</span> 그의 <span>긍휼하심</span>을 따라 <span>중생</span>의 <span>씻음</span>과 <span>성령</span>의 <span>새롭게 하심</span>으로 하셨나니',
+        con1:'<span>우리</span>를 구원하시되 <span>우리</span>가 행한바 <span>의로운 행위</span>로 말미암지 아니하고 <span>오직</span> 그의 <span>긍휼하심</span>을 따라 <span>중생</span>의 <span>씻음</span>과 <span>성령</span>의 <span>새롭게 하심</span>으로 하셨나니',
         con2:'<span>너희</span>의 <span>믿음</span>의 <span>역사</span>와 <span>사랑</span>의 수고와 우리 <span>주 예수 그리스도</span>에 대한 <span>소망</span>의 <span>인내</span>를 우리 <span>하나님 아버지 앞</span>에서  끊임없이 <span>기억함</span>이니 <span>하나님</span>의 사랑하심을 받은 <span>형제들</span>아 너희를 <span>택하심</span>을 아노라'
     },
     {
@@ -79,9 +79,9 @@ export default [
     },
     {
         idx:13,list:'14과',title:'예수 그리스도의 재림',
-        line1:'요한계시록 22:7',line2:'데살로니가전서 4:16',
+        line1:'요한계시록 22:7',line2:'데살로니가전서 4:16~17',
         con1:'보라 내가 속히 오리니 이 두루마리의 예언의 말씀을 지키는 자는 복이 있으리라 하더라',
-        con2:'주께서 호령과 천사장의 소리와 하나님의 나팔 소리로 친히 하늘로부터 강림하시리니 그리스도 안에서 죽은 자들이 먼저 일어나고'
+        con2:'주께서 호령과 천사장의 소리와 하나님의 나팔 소리로 친히 하늘로부터 강림하시리니 그리스도 안에서 죽은 자들이 먼저 일어나고 그 후에 우리 살아 남은 자도 저희와 함께 구름 속으로 끌어 올려 공중에서 주를 영접하게 하시리니 그리하여 우리가 항상 주와 함께 있으리라'
     }
     
     
